@@ -8,7 +8,7 @@ This code base demonstrates how to use spark2 with Kudu.
 # Building
 
 Modify the Kudu master servers for your environment in the
-`SparkKuduUpAndRunning.scala` source.
+`SparkKuduDemo.scala` source.
 
 The default is set to cloudera.quickstart
 
